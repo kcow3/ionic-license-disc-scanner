@@ -1,0 +1,7 @@
+{
+  "name": "license-disc-scanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
